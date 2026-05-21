@@ -1,2 +1,2 @@
 # prime_demo
-this is prime demi rep
+this is prime demo rep
